@@ -1,1 +1,2 @@
 # neural_network_project
+This is a neural network project written in python for a machine learning class. This repository includes python code for my own implementation of a neural network and the implementation from the sklearn library. Although my implementation runs much slower, both implementations obtain around 70+% accuracy on the testing data after training on the trianing data.  Results could be improved by adjustments to the learning parameters and node amounts.  I have not tested these results on different datasets.
